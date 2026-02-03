@@ -1,11 +1,9 @@
 ## Hi there, geeks! 👋
 
 - 👨‍💻 I'm Mico, and I love learning!
-- 🔭 I'm currently a computer engineering student in Southern Luzon State University
-- 🌱 I'm currently learning web development: both frontend and backend!
-- 🤔 Could you please teach me how to develop my career readiness?
-- 📫 Contact me here: alayram7@gmail.com !
-- ⚡ I love dogssss
+- 🔭 I'm currently a computer engineering student in Laguna State Polytechnic University (Transferred from SLSU)
+- 🌱 I'm a security nerd, and currently working towards certifications.
+- 📫 Contact me here: mico.d.alay@gmail.com
 
 
 <!--
